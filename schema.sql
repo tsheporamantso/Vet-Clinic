@@ -12,7 +12,7 @@ CREATE TABLE animals (
 
 ALTER TABLE animals ADD COLUMN species VARCHAR(50);
 
-/* Day 2 query multiple tables */
+/* Day 3 query multiple tables */
 
 CREATE TABLE owners (
     id SERIAL PRIMARY KEY,
